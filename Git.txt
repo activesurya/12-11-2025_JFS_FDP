@@ -9,4 +9,17 @@ git --version
 creating Git Hub Account
 https://github.com/signup
 
+Step 1: create one folder in d: drive like JFS_FDP
+
+steps in command prompt:
+1. git init
+2. git add *.*
+3. git config --global user.email "you@example.com"
+4. git config --global user.name "Your Name"
+5. git commit -m "msg"
+6. git remote add origin "github repository url"
+7. git push origin master
+--------this is what updated----------
+
+
 
