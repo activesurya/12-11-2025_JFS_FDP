@@ -1,0 +1,12 @@
+What is Git?
+Why to use Git?
+Install Git
+https://github.com/git-for-windows/git/releases/download/v2.51.2.windows.1/Git-2.51.2-64-bit.exe
+
+open command prompt
+git --version
+
+creating Git Hub Account
+https://github.com/signup
+
+
