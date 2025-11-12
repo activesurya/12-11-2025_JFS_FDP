@@ -20,6 +20,12 @@ steps in command prompt:
 6. git remote add origin "github repository url"
 7. git push origin master
 --------this is what updated----------
+if you want add modification in the local repo that needs to be updated in remote repo then you can follow these three steps only
+1. git add *.*
+2. git status -------------------- for optional verification purpose
+3. git commit -m "msg"
+4. git push origin master
+
 
 
 
